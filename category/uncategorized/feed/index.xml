@@ -1,0 +1,89 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized</title>
+	<atom:link href="/ https://mukundkadu.github.io/mukund/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/ https://mukundkadu.github.io/mukund</link>
+	<description>tagline</description>
+	<lastBuildDate>Mon, 15 Mar 2021 10:16:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>post1</title>
+		<link>/ https://mukundkadu.github.io/mukund/2021/03/05/demo2/</link>
+					<comments>/ https://mukundkadu.github.io/mukund/2021/03/05/demo2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 13:19:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/ https://mukundkadu.github.io/mukund/?p=7</guid>
+
+					<description><![CDATA[Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts &#8230;<p class="read-more"> <a class="" href="/ https://mukundkadu.github.io/mukund/2021/03/05/demo2/"> <span class="screen-reader-text">post1</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L<em>orem ipsum</em>, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&#8217;s De Finibus Bonorum et Malorum for use in a type specimen book.<em>orem ipsum</em>, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&#8217;s De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ https://mukundkadu.github.io/mukund/2021/03/05/demo2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>post2</title>
+		<link>/ https://mukundkadu.github.io/mukund/2021/03/05/demo1/</link>
+					<comments>/ https://mukundkadu.github.io/mukund/2021/03/05/demo1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 13:19:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/ https://mukundkadu.github.io/mukund/?p=5</guid>
+
+					<description><![CDATA[Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts &#8230;<p class="read-more"> <a class="" href="/ https://mukundkadu.github.io/mukund/2021/03/05/demo1/"> <span class="screen-reader-text">post2</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L<em>orem ipsum</em>, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&#8217;s De Finibus Bonorum et Malorum for use in a type specimen book.<em>orem ipsum</em>, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&#8217;s De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+
+
+
+<p>The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&#8217;s De Finibus Bonorum et Malorum for use in a type specimen book.<gwmw style="display:none;"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ https://mukundkadu.github.io/mukund/2021/03/05/demo1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>post3</title>
+		<link>/ https://mukundkadu.github.io/mukund/2021/03/05/hello-world/</link>
+					<comments>/ https://mukundkadu.github.io/mukund/2021/03/05/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 12:55:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/ https://mukundkadu.github.io/mukund/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, &#8230;<p class="read-more"> <a class="" href="/ https://mukundkadu.github.io/mukund/2021/03/05/hello-world/"> <span class="screen-reader-text">post3</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Welcome to WordPress. This is your first post. Edit or delete it, then start </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ https://mukundkadu.github.io/mukund/2021/03/05/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

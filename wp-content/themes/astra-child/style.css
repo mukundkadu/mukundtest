@@ -1,0 +1,131 @@
+/*
+ Theme Name:   astra-child
+ Theme URI:    http://example.com/astra_child/
+ Description:  astra-child
+ Author:       mukund
+ Author URI:   http://example.com
+ Template:     astra
+ Version:      1.0.0
+*/
+
+body.ast-separate-container{
+    font-family: Roboto;
+   
+}
+
+body.ast-separate-container {
+    background-color:rgb(226, 247, 233);
+}
+.head {
+    display: block;
+    text-align: left;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-weight: bold;
+}
+
+.post-images{
+    width:40%;
+    display:inline-block;
+}
+.post-detail {
+    width:40%;
+    display:inline-block;
+}
+
+.posts-content  img{
+    vertical-align: unset;
+    width: 100%;
+    height: 324px;
+}
+
+.post-wrapper{
+    text-align:left;
+
+    
+}
+
+.posts-content{
+    margin-top:30px;
+}
+
+.left-side{
+    width:100%;
+  display: inline-block;
+}
+.right-side{
+    width:100%;
+    display:inline-block;
+    vertical-align: top;
+}
+
+.post-img  img{
+    vertical-align: unset;
+    
+}
+.date{
+    display: inline-block;
+}
+.admin{
+    display: inline-block;
+}
+.block-item1{
+    display: inline-block;
+    font-weight: bolder;
+}  
+.block-item{
+    display: inline-block;
+    margin-left:50px;
+    font-weight: bolder;
+}
+
+element.style {
+}
+.date {
+    display: inline-block;
+}
+.post-section p {
+    margin-bottom: 7px;
+}
+.post-categories li{
+    list-style: none;
+}
+.post-details{
+    width:53%;
+    display:inline-block;
+    padding:15px;
+    vertical-align: text-bottom;
+}
+.post-detail{
+    width:100%;
+    display:inline-block;
+    padding:0px;
+    vertical-align: text-bottom;
+}
+.ast-button, .ast-custom-button, body, button, input[type=button], input[type=submit], textarea {
+line-height: 25px; 
+}
+
+.post-images img{
+    vertical-align: unset;
+}
+.post-details p{
+    margin-bottom: 00px;
+    display: inline-block;
+}
+.post-details h2{
+    padding-bottom:15px;
+}
+.date-single{
+
+    padding-bottom:10px;
+    font-weight: bolder;
+}
+
+.single-para{
+    padding-bottom:15px;
+}
+#content .ast-container .post-wrapper .post-section{
+
+   margin:20px;
+}
